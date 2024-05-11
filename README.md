@@ -1,6 +1,6 @@
 # Верстка главной страницы магазина Modimal на Gulp сборке
 
-## By © Lex Ryazanskiy
+## By © Lex Ryazanskiy по мастер-классу WebCademy
 
 Технологии:
 
